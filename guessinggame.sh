@@ -20,4 +20,4 @@ done
 if [[ $guess -eq $ans ]]
 	then
 	echo "Congratulations! your guess is correct"
-fi
+fi 
